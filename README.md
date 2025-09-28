@@ -10,7 +10,6 @@
   <p>
     <a href="https://github.com/FaqihAzh"><img src="https://img.shields.io/github/followers/FaqihAzh?label=Followers&logo=github&style=for-the-badge&color=ffffff&labelColor=00000000" alt="GitHub followers"/></a>
     <a href="https://github.com/FaqihAzh?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/FaqihAzh?label=Total%20Stars&logo=github&style=for-the-badge&color=ffffff&labelColor=00000000" alt="Total stars"/></a>
-    <img src="https://komarev.com/ghpvc/?username=FaqihAzh&style=for-the-badge&color=ffffff&labelColor=00000000" alt="Profile views"/>
     <a href="https://wakatime.com/@faqihazh"><img src="https://wakatime.com/badge/user/b35d0a1b-6c36-4d54-b4a9-c3486221778b.svg?style=for-the-badge&labelColor=00000000&color=ffffff" alt="WakaTime"/></a>
   </p>
 
