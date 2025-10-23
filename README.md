@@ -3,7 +3,7 @@
 
   <!-- animated typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Faqih+Azhar+%F0%9F%9A%80;Full-Stack+Developer+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%93%9A;Crafting+Fast+%26+Delightful+Web+Apps+%F0%9F%8C%9F"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Faqih+Azhar+%F0%9F%9A%80;Software+Engineer+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%93%9A;Crafting+Fast+%26+Delightful+Web+Apps+%F0%9F%8C%9F"/>
   </a>
 
   <!-- quick badges -->
